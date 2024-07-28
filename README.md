@@ -3,20 +3,20 @@ Reviews Analysis Project
 
 This project involves analyzing product reviews to extract insights on various aspects such as review length, review scores, helpfulness, and trends over time.
 
-# Table of Contents
-# Introduction
-# Data Description
-# Analyses
--> Distribution of Review Scores
--> Helpfulness of Reviews
--> Average Review Scores by Product
--> Correlation Between Review Length and Score
--> Review Counts by User
--> High-Rated Reviews and Helpfulness
--> Reviews and Average Scores
--> Review Length by Sentiment
--> Review Scores and Helpfulness Ratios
-# Conclusion
+Table of Contents
+Introduction
+Data Description
+Analyses
+Distribution of Review Scores
+Helpfulness of Reviews
+Average Review Scores by Product
+Correlation Between Review Length and Score
+Review Counts by User
+High-Rated Reviews and Helpfulness
+Reviews and Average Scores
+Review Length by Sentiment
+Review Scores and Helpfulness Ratios
+Conclusion
 
 # Introduction
 The aim of this project is to perform various analyses on product reviews to gain insights into the patterns and trends in the data. The analyses cover a wide range of questions, such as the distribution of review scores, the relationship between review length and score, and trends in review details over time.
