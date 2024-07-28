@@ -1,4 +1,4 @@
-# Review-ans-Helpfull-Anlysis
+# Review-and-Helpfull-Anlysis
 Reviews Analysis Project
 
 This project involves analyzing product reviews to extract insights on various aspects such as review length, review scores, helpfulness, and trends over time.
