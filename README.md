@@ -3,20 +3,10 @@ Reviews Analysis Project
 
 This project involves analyzing product reviews to extract insights on various aspects such as review length, review scores, helpfulness, and trends over time.
 
-Table of Contents
-Introduction
-Data Description
-Analyses
-Distribution of Review Scores
-Helpfulness of Reviews
-Average Review Scores by Product
-Correlation Between Review Length and Score
-Review Counts by User
-High-Rated Reviews and Helpfulness
-Reviews and Average Scores
-Review Length by Sentiment
-Review Scores and Helpfulness Ratios
-Conclusion
+## Table of Contents
+## Introduction
+## Data Description
+## Analyses
 
 # Introduction
 The aim of this project is to perform various analyses on product reviews to gain insights into the patterns and trends in the data. The analyses cover a wide range of questions, such as the distribution of review scores, the relationship between review length and score, and trends in review details over time.
@@ -24,17 +14,18 @@ The aim of this project is to perform various analyses on product reviews to gai
 # Data Description
 The data used in this project includes the following key columns:
 
-Id: Unique identifier or s.no
-ProductId: Unique identifier for products
-UserId: Unique Identifier for user
-ProfileName: User Name 
-HelpfulnessNumerator: Number of users who found the review helpful
-HelpfulnessDenominator: Total number of users who rated the review's helpfulness
-Score: Rating given to the product
-Time: Date when the review was posted
-Summary: Summary of the Review
-ReviewText: Text of the review
-Analyses
+## Id: Unique identifier or s.no
+## ProductId: Unique identifier for products
+## UserId: Unique Identifier for user
+## ProfileName: User Name 
+## HelpfulnessNumerator: Number of users who found the review helpful
+## HelpfulnessDenominator: Total number of users who rated the review's helpfulness
+## Score: Rating given to the product
+## Time: Date when the review was posted
+## Summary: Summary of the Review
+## ReviewText: Text of the review
+
+# Analyses
 Distribution of Review Scores
 The distribution of review scores shows that the majority of reviews are positive, with a mean score of 4.18 and a median score of 5.
 
